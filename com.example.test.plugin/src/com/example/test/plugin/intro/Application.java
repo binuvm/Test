@@ -11,6 +11,9 @@ import org.eclipse.ui.PlatformUI;
  */
 public class Application implements IApplication {
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public Object start(IApplicationContext context) {
 		Display display = PlatformUI.createDisplay();
