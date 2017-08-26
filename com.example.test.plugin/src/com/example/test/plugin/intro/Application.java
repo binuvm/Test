@@ -27,6 +27,15 @@ public class Application implements IApplication {
 			display.dispose();
 		}
 	}
+	/**
+	 * test method
+	 */
+	public void testMethod(){
+		
+	}
+	
+	public void testMethod2(){
+	}
 
 	@Override
 	public void stop() {
