@@ -30,5 +30,9 @@ public class ApplicationActionBarAdvisor extends ActionBarAdvisor {
 		// Help
 		helpMenu.add(introAction);
 	}
+	
+	public void createToolbar(){
+		
+	}
 
 }

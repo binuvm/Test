@@ -35,7 +35,6 @@ public class Application implements IApplication {
 	}
 	
 	public void testMethod2(){
-		
 	}
 
 	@Override
