@@ -27,7 +27,9 @@ public class Application implements IApplication {
 			display.dispose();
 		}
 	}
-	
+	/**
+	 * test method
+	 */
 	public void testMethod(){
 		
 	}
