@@ -50,6 +50,7 @@ public class Application implements IApplication {
 			}
 		});
 	}
+
 	/**
 	 * 
 	 */
@@ -59,6 +60,12 @@ public class Application implements IApplication {
 		int a = 0;
 		
 		int  b= a+0;
+
+		int d=123;
+		int j=4;
+		System.out.println("value= "+4);
+		
+
 		
 	}
 }
