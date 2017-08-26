@@ -41,4 +41,10 @@ public class Application implements IApplication {
 			}
 		});
 	}
+	/**
+	 * 
+	 */
+	public void testMethodsssss(){
+		
+	}
 }
