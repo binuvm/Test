@@ -49,6 +49,7 @@ public class Application implements IApplication {
 					workbench.close();
 			}
 		});
+		System.out.println("I also added the line");
 	}
 
 	/**
