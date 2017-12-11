@@ -49,23 +49,8 @@ public class Application implements IApplication {
 					workbench.close();
 			}
 		});
+		System.out.println("New line has been added.");
 	}
 
-	/**
-	 * 
-	 */
-	public void testMethodsssss(){
-		
-		System.out.println("I am inside the merge");
-		int a = 0;
-		
-		int  b= a+0;
-
-		int d=123;
-		int j=4;
-		System.out.println("value= "+4);
-		
-
-		
-	}
+	
 }
