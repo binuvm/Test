@@ -50,7 +50,7 @@ public class Application implements IApplication {
 			}
 		});
 		System.out.println("New line has been added.");
-		System.out.println("I also added the line");
+		int x = 20;
 	}
 
 	
