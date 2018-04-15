@@ -40,6 +40,8 @@ public class Application implements IApplication {
 	public void testMethod3(){
 	}
 	public void testMethod4(){
+		System.out.println("added in sprint branch");
+		
 	}
 
 	@Override
