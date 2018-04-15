@@ -36,6 +36,10 @@ public class Application implements IApplication {
 	
 	public void testMethod2(){
 	}
+	
+	public void testMethod3() {
+		
+	}
 
 	@Override
 	public void stop() {
